@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Afiliados-Shopee-Converter",
+  "version": "1.0",
+  "description": "Converte automaticamente os links de produtos da Shopee abertos em abas para links de afiliado.",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  }
+}
