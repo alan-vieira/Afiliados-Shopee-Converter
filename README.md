@@ -35,7 +35,7 @@ https://affiliate.shopee.com.br/offer/product_offer/produto_id
 1. Baixe ou clone este repositório:
 
  ```bash
- git clone https://github.com/seuusuario/Afiliados-Shopee-Converter.git
+ git clone https://github.com/alan-vieira/Afiliados-Shopee-Converter.git
  ```
 Ou baixe o .zip e extraia a pasta.
 
